@@ -25,6 +25,7 @@
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="ejurnalstemba"/>
+        <data android:scheme="exp+e-jurnal-stemba"/>
       </intent-filter>
     </activity>
   </application>
